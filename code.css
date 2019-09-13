@@ -4,15 +4,17 @@ padding: 0;
 }
 
 .inline{
-
+	float: right;
 	font-weight: bold;
 	font-size: 16pt;
+	width: 75%;
+	margin: -90px;
 
 }
 
 
 .logo {
-	display: inline-block;
+	
 	background-color: #EDEDED;
 	width: 100%;
 	
