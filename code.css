@@ -3,12 +3,17 @@ margin: 0;
 padding: 0;
 }
 
+body {
+	font-family: Halvetica;
+}
+
 .inline{
 	float: right;
 	font-weight: bold;
 	font-size: 16pt;
 	width: 75%;
 	margin: -90px;
+	font-family: Halvetica;
 
 }
 
@@ -42,9 +47,15 @@ nav ul li a {
 }
 
 .first {
+	clear: both; 
 	
 	text-align: center;
-	margin-top: 15px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-family: Halvetica;
+	font-size: 40pt;
+	color: #313131;
+
 	
 }
 
