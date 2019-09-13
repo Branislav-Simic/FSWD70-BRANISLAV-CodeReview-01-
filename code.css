@@ -3,6 +3,12 @@ margin: 0;
 padding: 0;
 }
 
+.inline{
+
+	font-weight: bold;
+	font-size: 16pt;
+
+}
 
 
 .logo {
@@ -13,6 +19,7 @@ padding: 0;
 }
 
 nav {
+
 	background-color: #653D3D;
 	width: 100%;
 	height: 50px;
@@ -29,6 +36,7 @@ nav ul li a {
 	font-weight: bold;
 	text-transform: uppercase;
 	line-height: 50px;
+	margin-left: 10px;
 }
 
 .first {
@@ -49,37 +57,47 @@ nav ul li a {
 	margin-top: 10px;
 }
 
+.margin{
+	margin-left: 10pt;
+}
+
 .img{
-	height: 150px;
+	
+	height: 200px;
 
 }
 
 .scooter{
-	height: 150px;
+	
+	height: 200px;
+	
 }
 
 .devices{
-	height: 150px;
+	height: 200px;
 }
 
 .atm{
-	height: 150px;
+
+	height: 200px;
 }
 
 .pic{
+	font-size: 10pt;
 	 display: inline-block;
-	 margin-top: 50px;
-	 margin-left: 100px;
+	 margin-top: 30px;
+	 margin-left: 150px;
 	 font-weight: bold;
 	 font-family: arial;
 }
 
 .pic2 {
 	 display: inline-block;
-	 margin-top: 50px;
-	 margin-left: 100px;
+	 margin-top: 30px;
+	 margin-left: 150px;
 	 font-weight: bold;
 	 font-family: arial;
+	 font-size: 10pt;
 }
 
 .line{
